@@ -1,1 +1,2 @@
-A PYTHON CODE THAT DETICET HOW POWERFULL IS A PASSWORD
+a bash file and python code that check how strong is your password
+
